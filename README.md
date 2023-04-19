@@ -53,7 +53,24 @@ And it will be changed to like this
 **STEP 6 :** Enjoy
 
 
-**DISCLAIMER:**
+
+In case of any error in the **STEP 4** follow the steps till **STEP 2** and type the following in the command prompt
+
+         cricbase\Scripts\activate.bat
          
+Then follow **STEP 3** and then type the following in the command prompt
+         
+         pip install -r /path/to/requirements.txt
+OR (Don't want to mention the path) simply type the following in the command prompt
+
+         pip install -r requirements.txt
+         
+Then follow the **STEP 4**
+ 
+**HOPE IT WILL BE FINE**
+
+
+**DISCLAIMER:** 
          If anyone improved this even more better than now please let me know your betterment in the development of the site 🤗🤗
+                                                               _**THANK YOU**_
          
