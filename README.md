@@ -8,4 +8,8 @@ News can viewed and Players info are also used
 
 HOW TO USE 
 
-STEP 1 : Git clone
+STEP 1 : $ git clone https://github.com/MukeshCSK/Cricbase.git in your command prompt
+         (or)
+         Download the Zip file and extract them
+         
+STEP 2 : 
