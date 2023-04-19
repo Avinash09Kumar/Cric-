@@ -14,7 +14,6 @@ News can be viewed and Players info are also viewed
          
 **STEP 2 :** Go to the file location where you saved the folder in command prompt
 
-         (Example)
          C:\Users\Admin>
          
          C:\Users\Admin> cd Desktop
@@ -23,10 +22,10 @@ News can be viewed and Players info are also viewed
          
 **STEP 3 :** Go into the Cricbase-master folder in the command prompt
 
-         (Example)
          C:\Users\Admin\Desktop\Cricbase-master> cd Cricbase-master
          
-         And it will be changed to like this
+And it will be changed to like this
+
          C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master>
          
 **STEP 4 :** Type python manage.py runserver
