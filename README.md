@@ -34,7 +34,7 @@ News can be viewed and Players info are also viewed
          (Example)
          C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master> python manage.py runserver
          
-         The Output will be like
+**The Output will be like**
          
          Watching for file changes with StatReloader
          Performing system checks...
