@@ -19,7 +19,7 @@ News can be viewed and Players info are also viewed
          
          C:\Users\Admin> cd Desktop
          
-         C:\Users\TANUSHREE\Admin> cd Cricbase-master
+         C:\Users\TANUSHREE\Admin\Desktop> cd Cricbase-master
          
 **STEP 3 :** Go into the Cricbase-master in the command prompt
 
