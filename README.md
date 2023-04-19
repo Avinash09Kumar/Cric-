@@ -17,23 +17,25 @@ News can be viewed and Players info are also viewed
          (Example)
          C:\Users\Admin>
          
-         C:\Users\Admin> **cd Desktop**
+         C:\Users\Admin> cd Desktop
          
-         C:\Users\TANUSHREE\Admin> **cd Cricbase-master**
+         C:\Users\TANUSHREE\Admin> cd Cricbase-master
          
 **STEP 3 :** Go into the Cricbase-master in the command prompt
 
          (Example)
-         C:\Users\Admin\Desktop\Cricbase-master> **cd Cricbase-master**
+         C:\Users\Admin\Desktop\Cricbase-master> cd Cricbase-master
          
          And it will be changed to like this
          C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master>
          
 **STEP 4 :** Type python manage.py runserver
+
          (Example)
-         C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master> **python manage.py runserver**
+         C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master> python manage.py runserver
          
          The Output will be like
+         
          Watching for file changes with StatReloader
          Performing system checks...
 
