@@ -30,7 +30,6 @@ And it will be changed to like this
          
 **STEP 4 :** Type python manage.py runserver
 
-         (Example)
          C:\Users\Admin\Desktop\Cricbase-master\Cricbase-master> python manage.py runserver
          
 **The Output will be like**
